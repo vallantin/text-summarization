@@ -70,20 +70,8 @@ if len(text) > 1:
 
       st.error('This text is too short to be summarized.')
     
-
-
-
-
-
-
-
-
-
 # ------------------------------------------------------------------------------------
 st.markdown("""---""")
-st.subheader('To go further')
-st.write("[A Gentle Introduction to Vector Space Models](https://machinelearningmastery.com/a-gentle-introduction-to-vector-space-models/)")
-st.write("[Measuring Text Similarity Using BERT](https://www.analyticsvidhya.com/blog/2021/05/measuring-text-similarity-using-bert/)")
 
 st.subheader('Other projects')
 st.write("[Job description generator](https://vallantin-jobdescriptiongenerator-app-5wz0u4.streamlitapp.com/)")
