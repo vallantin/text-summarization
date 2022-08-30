@@ -14,4 +14,4 @@ streamlit run app.py
 
 ## View it online
 
-[Text summarization](https://vallantin-textsimilarity-app-gopds6.streamlitapp.com/)
+[Text summarization](https://vallantin-text-summarization-app-slnq0j.streamlitapp.com/)
